@@ -1,8 +1,3 @@
-@font-face {
-    font-family: windsoref;
-    src: url("assets/fonts/WindsorEF-UltraHeavy copy.otf");
-  }
-
 
 html {
     font: windsoref;
@@ -233,6 +228,16 @@ p {
     border-radius: 1.75rem;
 }
 
-.howcan {
+#howcan {
     flex-direction: column;
 }
+
+#contactus {
+
+}
+
+
+
+
+
+
