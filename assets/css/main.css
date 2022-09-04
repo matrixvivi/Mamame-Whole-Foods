@@ -233,7 +233,10 @@ p {
 }
 
 #contactus {
-
+    background: #475b44;
+    color: #e7e0cc;
+    width: 100vw;
+    padding-left: 5rem;
 }
 
 
